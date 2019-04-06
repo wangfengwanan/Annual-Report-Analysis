@@ -23,7 +23,7 @@
     对所有年报的分词结果进行词嵌入，使用的是skip-gram模型。
     
     extract_keywords.py：
-    ##
+    
     使用tf-idf提取每份年报的关键词（200个），并将这些关键词对应的向量相加，形成每份年报的向量。
     
     calculate_similarity.py：
